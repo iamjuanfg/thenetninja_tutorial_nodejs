@@ -1,0 +1,16 @@
+{
+  "name": "ninja_tutorial_nodejs",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
